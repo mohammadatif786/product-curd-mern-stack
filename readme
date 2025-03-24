@@ -1,0 +1,28 @@
+first run this cmd for package
+npm init -y
+
+then run this cmd to install express mongoose dotenv
+npm install express mongoose dotenv
+
+for auto refresh run this cmd
+npm i nodemon -D
+
+in frontend folder enter this cmd
+npm create vite@latest .
+
+after that run 
+npm i
+
+then install chakra ui run this cmd
+
+npm i @chakra-ui/react@2 @emotion/react @emotion/styled framer-motion
+
+after we can add router react run this cmd
+npm i react-router-dom
+
+react icon cmd
+npm i react-icon
+
+
+to access in any where run this cmd
+npm i zustand
